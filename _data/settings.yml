@@ -50,7 +50,7 @@ social:
 blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 blurb-btn-link: "/about"
-blurb-btn-name: know more
+blurb-btn-name: SAIBA MAIS
 
 # About Page
 
@@ -85,17 +85,18 @@ team:
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
+skills-title: Habilidades
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: Estatística e Matemática, color: "#fdb157", value: "90%" }
+  - { name: Linguagens de Programação, color: "#9473e6", value: "60%" }
+  - { name: Conhecimentos de Negócio, color: "#bdecf6", value: "80%" }
+  - { name: Excel/MS Power BI, color: "#ffbcaa", value: "70%" }
+  - { name: Machine Learning, color: "#ffbcaa", value: "10%" }
 
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: Experiência
 experience:
   - {
       name: Junior UX Designer,
@@ -119,7 +120,7 @@ experience:
 #-------------------------------
 # Education Section
 
-education-title: Education
+education-title: Formação Acadêmica
 education:
   - {
       name: Marters in UX Design,
