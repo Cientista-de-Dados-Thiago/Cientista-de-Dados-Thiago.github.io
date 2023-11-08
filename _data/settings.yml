@@ -123,24 +123,24 @@ experience:
 education-title: Formação Acadêmica
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: Engenharia de Produção,
+      date: "2018",
+      organization: "Universidade São Judas Tadeu",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
+      name: Pós Graduação - BI - Big Data - Analytics - Ciência de Dados,
+      date: "2022",
+      organization: "Universidade Anhanguera",
     }
   - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
+      name: Introdução à Ciência de Dados,
+      date: "2023",
+      organization: "Fundação Getúlio Vargas",
     }
   - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
+      name: Formação Python,
+      date: "2021",
+      organization: "Alura",
     }
 
 #-------------------------------
