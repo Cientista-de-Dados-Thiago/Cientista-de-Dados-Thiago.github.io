@@ -2,20 +2,20 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Thiago
 logo:
-author: themefisher
+author: Thiago Martins Carvalho de Medeiros
 description: this is meta description
-email: steve.fruits@email.com
+email: cientistadedadosthiago@outlook.com
 phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+address: São Paulo - Brasi
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-  - { name: About, link: "/about" }
+  - { name: Sobre, link: "/about" }
   - { name: Blog, link: "/blog" }
   - { name: Portfolio, link: "/portfolio" }
-  - { name: Contact, link: "/contact" }
+  - { name: Contato, link: "/contact" }
 
 #-------------------------------
 # Google Analytics Section
