@@ -14,6 +14,6 @@ Além da minha experiência com Python, sou competente em outras linguagens, com
 
 Estou entusiasmado para contribuir com projetos desafiadores na área de Ciência de Dados, e estou aberto a oportunidades empolgantes que me permitam aplicar meu conhecimento e experiência em soluções inovadoras.
 
-Neste site, você encontrará uma seleção dos meus projetos mais recentes, que servem como um portfólio do meu trabalho. Além disso, estarei compartilhando minhas experiências, aprendizados e insights por meio de artigos e posts sobre os cursos e desafios que tenho enfrentado nessa emocionante jornada de aprendizado.
+Neste site, você encontrará uma seleção dos meus projetos mais recentes, que servem como um portfólio do meu trabalho. Além disso, irei compartilhar minhas experiências, aprendizados e insights por meio de artigos e posts sobre os cursos e desafios que tenho enfrentado nessa emocionante jornada de aprendizado.
 
 Seja bem-vindo ao meu espaço digital, e espero que você encontre inspiração e conhecimento em cada visita.
