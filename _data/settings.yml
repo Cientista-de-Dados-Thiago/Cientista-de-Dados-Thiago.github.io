@@ -147,7 +147,7 @@ education:
 # Services Section
 
 services-title: Serviços
-services:
+Serviços:
   - {
       name: Analise de Dados,
       icon: ti-palette,
