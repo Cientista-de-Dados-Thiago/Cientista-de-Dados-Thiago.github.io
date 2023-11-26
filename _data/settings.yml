@@ -146,24 +146,24 @@ education:
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: Serviços
 services:
   - {
-      name: UI Design,
+      name: Analise de Dados,
       icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Coleta e limpeza de dados, exploração de dados e análise estatística.",
       active: ,# Add true to select section
     }
   - {
-      name: UX Design,
+      name: Desenvolvimento de Modelos Preditivos,
       icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Machine Learning com aplicação de algoritmos de classificação, regressão, agrupamento. Otimização de modelos para fornecer  previsões precisas e generalizáveis para novos conjuntos de dados.",
       active: true, # Add true to select section
     }
   - {
-      name: Interaction Design,
+      name: Comunicação de Resultados e Tomada de Decisão,
       icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Elaboração de dashboards, relatórios e apresentações para visualização de dados, storytelling e colaboração interdisciplinar.",
       active: ,# Add true to select section
     }
 
@@ -244,7 +244,7 @@ portfolio-items:
       - type: "illustration"
 
 #-------------------------------
-# Testimonials Section
+'''# Testimonials Section
 
 testimonial-items:
   - name: "Jesica Gomez"
@@ -260,8 +260,7 @@ testimonial-items:
   - name: "Jesica Gomez"
     image: "assets/images/testimonial/client-1.png"
     designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
+    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur." '''
 #-------------------------------
 # Client Slider Section
 
